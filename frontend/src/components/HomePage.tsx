@@ -38,12 +38,12 @@ const HomePage = () => {
         <div className="w-full bg-gray-100 rounded-lg p-4 mb-4">
           <h3 className="text-xl font-bold mb-2 text-center">Visión</h3>
           <p className="text-gray-700 text-center md:px-4">
-            Para 2030, seremos la plataforma líder en Bogotá para 
-            profesionales y emprendedores que buscan romper con el 
-            aislamiento del trabajo remoto. Ofrecemos espacios de 
-            coworking diseñados para impulsar la productividad y 
-            facilitar conexiones significativas que amplíen su círculo 
-            profesional.
+            Para 2030, WORKIO será la plataforma líder, adaptable y 
+            transparente en Bogotá para profesionales y emprendedores 
+            que buscan romper con el aislamiento del trabajo remoto. 
+            Workio ofrece espacios de coworking diseñados para impulsar 
+            la productividad y facilitar conexiones significativas de 
+            estudiantes y profesionales para que amplíen su círculo profesional.
           </p>
         </div>
           
@@ -72,7 +72,7 @@ const HomePage = () => {
             <p className="text-left font-raleway mt-2">
               - Regístrate en nuestra plataforma.
               <br />
-              - Completa tu perfil de hotel.
+              - Completa tu perfil de Workio.
               <br />
               - Verifica tu cuenta.
               <br />- ¡Empieza a recibir Reservas!
