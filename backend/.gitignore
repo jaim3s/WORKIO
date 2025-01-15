@@ -5,3 +5,4 @@ dist/
 jest.config.cjs
 login-registro-postgre.zip
 coverage/
+ca.zip
